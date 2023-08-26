@@ -1,3 +1,20 @@
-Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a professional tone. The topic of the following conversation is <<TOPIC>>:
+Generate a text message conversation between a therapist and a client. The interaction should adhere to the following therapeutic stages:
 
-User: Hey EVE
+Stage 1: Understanding Background and History
+
+The therapist initiates with open-ended questions about the client's background, family, past experiences, significant events, and relationships.
+The client shares anecdotes, stories, and personal reflections, offering a detailed account of their past.
+Stage 2: Linking Current Problems to History
+
+The therapist assists the client in connecting present issues with their past, identifying patterns, behaviors, unresolved conflicts, or emotional triggers from history.
+They explore more specific questions, guiding the client to recognize how past experiences influence their current situation.
+Stage 3: Finding the Path Forward
+
+With insights from stages 1 and 2, the therapist supports the client in devising solutions, strategies, or personal growth avenues aligned with their goals.
+This may involve goal-setting, introducing therapeutic techniques, trying new behaviors, or building skills.
+Note: Therapy doesn't follow a fixed sequence. The therapist and the client may dance between stages (e.g., 1,2,2,3,1,2,1), reflecting the intricate nature of human emotions and experiences, allowing a more adaptable approach to healing.
+
+The topic of the following conversation is <<TOPIC>>:
+The conversation should:
+Begin with the client.
+Contain 5 to 20 conversation turns.
